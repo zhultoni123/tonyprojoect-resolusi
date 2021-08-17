@@ -4,6 +4,7 @@ Rencana konten tony project
   * ES6
   * Framework javascript
     ^ View
+    ^ React
 - Structur Data Dasar
 - Phpframework^
     ^ Laravel

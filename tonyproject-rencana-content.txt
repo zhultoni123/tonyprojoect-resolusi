@@ -3,7 +3,10 @@ Rencana konten tony project
 - javascript
   * ES6
   * Framework javascript
+    ^ View
 - Structur Data Dasar
-- Phpframework
+- Phpframework^
+    ^ Laravel
 - Interview
 - vlogs
+- Phyton

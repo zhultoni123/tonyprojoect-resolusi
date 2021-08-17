@@ -3,7 +3,10 @@ Rencana konten tony project
 - javascript
   * ES6
   * Framework javascript
+    ^ Angular
+    ^ React
 - Structur Data Dasar
 - Phpframework
+    ^ Laravel
 - Interview
 - vlogs

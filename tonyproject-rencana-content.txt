@@ -1,0 +1,8 @@
+Rencana konten tony project
+
+- javascript
+  * ES6
+  * Framework javascript
+- Phpframework
+- Interview
+- vlogs
